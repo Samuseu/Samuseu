@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <table width="100%" border='0'>
    <tr> 
     <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
-   <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа вадима ксендзова по ручному тестированию<a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
-   школа вадима ксендзова по ручному тестированию
+   <tr><td width="30%" valign="bottom"><img src="/images/manualtest.png"></td><td valign="middle">Школа вадима ксендзова по ручному тестированию <a target="_blank" href="https://ksendzov.com/">ksendzov.com</a>.</td></tr>
    </tr>
   </table>
   </br>
