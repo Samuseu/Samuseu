@@ -1,4 +1,4 @@
-### Добро пожаловать и привет! :cherry_blossom:
+### Добро пожаловать и привет! 
 Меня зовут Влад. С сентября 2023 года я - инженер по тестированию программного обеспечения.</br>
 <!--
 **Samuseu/Samuseu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 - [x] Различные файлы конфигураций для запуска тестов
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/Samus67">t.me/Samuseu Vlad</a>
+ <a target="_blank" href="https://t.me/Samus67">t.me/Samuseu Vlad</a>
