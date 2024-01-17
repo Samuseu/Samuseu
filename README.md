@@ -8,6 +8,8 @@
    </tr>
   </table>
   </br>
+
+  [![Samuseu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuseu&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/Samuseu/github-readme-stats)
   
  ### Технологии и инструменты:
 
@@ -30,21 +32,19 @@
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="Rest Assured" alt="Rest Assured" width="40" height="40" /> 
   </p>
 
-  <div align="left">
-<h2> Мои проекты </h2>
+<div align="left">
+  <h2>Мои проекты</h2>
 </div>
+
 <p align="center">
- <a href="https://github.com/Samuseu/Jenkins"><img width="250" title="| Graduation project. UI automated tests using Java / Selenide / Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreyzavrichko&repo=qaguru_homework_12.5&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="qaGuruDiploma"></a>
-</p>  
+  <a href="https://github.com/Samuseu/Jenkins"><img width="250" title="| Jenkins Project" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Samuseu&repo=Jenkins&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="Jenkins Project"></a>
+  <!-- Добавьте другие проекты здесь в том же формате, если нужно -->
+</p>
+
+### Language Proficiency:
+
+[![English](https://img.shields.io/badge/English-Elementary%20(A2)-blue)](https://example.com)
 
 
+[![Telegram](https://img.shields.io/badge/Telegram-Samuseu_Vlad-blue?logo=telegram)](https://t.me/Samus67)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuseu)](https://github.com/Samuseu/github-readme-stats)
-
- ### Знание языков: 
-  |Язык               |Уровень             |                        
-  |-------------------------------- |------|
-  | Английский язык	  | Elementary (А2)   |  
-
- <a target="_blank" href="https://t.me/Samus67">t.me/Samuseu Vlad</a>
