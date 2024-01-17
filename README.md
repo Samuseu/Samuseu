@@ -8,8 +8,6 @@
    </tr>
   </table>
   </br>
-
-  [![Samuseu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuseu&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/Samuseu/github-readme-stats)
   
  ### Технологии и инструменты:
 
@@ -40,6 +38,17 @@
   <a href="https://github.com/Samuseu/Jenkins"><img width="250" title="| Jenkins Project" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Samuseu&repo=Jenkins&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="Jenkins Project"></a>
   <!-- Добавьте другие проекты здесь в том же формате, если нужно -->
 </p>
+
+<h2>Статистика</h2>
+<br>
+</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuseu&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samuseu&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samuseu&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 ### Language Proficiency:
 
